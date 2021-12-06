@@ -1,0 +1,61 @@
+body {
+  padding: 100px;
+}
+
+.submit-area {
+  padding: 2rem;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 1rem;
+}
+
+#transaction-area {
+  display: none;
+}
+
+.status {
+  margin: 1.2rem;
+  padding: 1.2rem;
+  color: white;
+  border-radius: 0.8rem;
+}
+.deposit {
+  background-color: slateblue;
+}
+.withdraw {
+  background-color: lightsalmon;
+}
+.balance {
+  background-color: orange;
+}
+
+/* Login Underline CSS */
+
+/* h4 .line4 {
+  width: 5rem;
+  height: 3px;
+  background: #fff;
+  margin: 0 auto 0 0.6rem;
+} */
+/* End */
+
+/* CSS For Animation Underline */
+/* .navbar .nav-item a {
+    transition: all ease-in-out 0.7s;
+    color: #313232;
+    font-weight: 600;
+    position: relative;
+  }
+  .navbar .nav-item a::after {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 0.3rem;
+    width: 0;
+    bottom: -0.5rem;
+    background-color: #fff;
+    transition: all ease-in-out 0.7s;
+  }
+  .navbar .nav-item a:hover::after {
+    width: 85%;
+  } */
+/* END */
